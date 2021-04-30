@@ -1,4 +1,4 @@
-# Snakes and Ladder
+# Snakes and Ladders
 
 This assignment was assigned by the B58 (Computer Hardware) course instructor at the University of Toronto. This project was created by a team of four. This project is a simple, yet highly interactive and fun snakes and ladder's game. The game has a dice which rolls from 1 to 6, the player on the screen moves based on the dice value. If the player rolls a 6 they get to roll again! The player positions can be viewed on the screen as well as on the DE2 board. When a player wins, the winner is displayed on the board along with a pattern of flashing led lights. 
 
